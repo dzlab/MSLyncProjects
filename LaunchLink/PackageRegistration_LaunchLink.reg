@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Communicator\ContextPackages]   
+[HKEY_CURRENT_USER\Software\Microsoft\Communicator\ContextPackages\{9843480E-0EBA-4ED6-AB7C-853EBF9157A9}]
+"Name"="LaunchLink"
+"Path"="C:\\env\\projects\\LaunchLink\\bin\\Debug\\LaunchLink.exe"
+"Parameters"="%AppData%"
+"DefaultContextPackage"=dword:00000000

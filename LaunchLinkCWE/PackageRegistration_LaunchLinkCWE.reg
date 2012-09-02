@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Communicator\ContextPackages]   
+[HKEY_CURRENT_USER\Software\Microsoft\Communicator\ContextPackages\{E222C0E4-5C01-4975-B053-845EAAF82CFE}]
+"Name"="LaunchLinkCWE"
+"Path"=C:\\env\\projects\\LaunchLinkCWE\\bin\\Debug\\LaunchLinkCWE.exe"
+"Parameters"="%AppData%"
+"InstallLink"=""
+"InternalURL"="http://localhost:1505/Default.aspx"
+"ExternalURL"="http://localhost:1505/Default.aspx"
+"ExtensibilityWindowSize"=dword:00000000
+"DefaultContextPackage"=dword:00000000

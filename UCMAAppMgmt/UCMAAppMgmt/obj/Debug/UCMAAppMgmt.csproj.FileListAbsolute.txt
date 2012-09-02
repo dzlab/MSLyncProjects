@@ -1,0 +1,7 @@
+C:\env\projects\UCMAAppMgmt\UCMAAppMgmt\bin\Debug\UCMAAppMgmt.dll
+C:\env\projects\UCMAAppMgmt\UCMAAppMgmt\bin\Debug\UCMAAppMgmt.pdb
+C:\env\projects\UCMAAppMgmt\UCMAAppMgmt\bin\Debug\SIPEPS.dll
+C:\env\projects\UCMAAppMgmt\UCMAAppMgmt\bin\Debug\Microsoft.Rtc.Internal.Media.dll
+C:\env\projects\UCMAAppMgmt\UCMAAppMgmt\obj\Debug\ResolveAssemblyReference.cache
+C:\env\projects\UCMAAppMgmt\UCMAAppMgmt\obj\Debug\UCMAAppMgmt.dll
+C:\env\projects\UCMAAppMgmt\UCMAAppMgmt\obj\Debug\UCMAAppMgmt.pdb

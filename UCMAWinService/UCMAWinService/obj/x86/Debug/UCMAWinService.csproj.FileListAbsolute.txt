@@ -1,0 +1,9 @@
+C:\env\projects\UCMAWinService\UCMAWinService\bin\Debug\UCMAWinService.exe
+C:\env\projects\UCMAWinService\UCMAWinService\bin\Debug\UCMAWinService.pdb
+C:\env\projects\UCMAWinService\UCMAWinService\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\env\projects\UCMAWinService\UCMAWinService\obj\x86\Debug\UCMAWinService.ProjectInstaller.resources
+C:\env\projects\UCMAWinService\UCMAWinService\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\env\projects\UCMAWinService\UCMAWinService\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\env\projects\UCMAWinService\UCMAWinService\obj\x86\Debug\UCMAWinService.exe
+C:\env\projects\UCMAWinService\UCMAWinService\obj\x86\Debug\UCMAWinService.pdb
+C:\env\projects\UCMAWinService\UCMAWinService\obj\x86\Debug\UCMAWinService.UCMAWinService.resources

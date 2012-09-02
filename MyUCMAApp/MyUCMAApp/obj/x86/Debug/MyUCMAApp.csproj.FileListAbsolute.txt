@@ -1,0 +1,8 @@
+C:\env\projects\MyUCMAApp\MyUCMAApp\bin\Debug\MyUCMAApp.exe.config
+C:\env\projects\MyUCMAApp\MyUCMAApp\bin\Debug\MyUCMAApp.exe
+C:\env\projects\MyUCMAApp\MyUCMAApp\bin\Debug\MyUCMAApp.pdb
+C:\env\projects\MyUCMAApp\MyUCMAApp\bin\Debug\SIPEPS.dll
+C:\env\projects\MyUCMAApp\MyUCMAApp\bin\Debug\Microsoft.Rtc.Internal.Media.dll
+C:\env\projects\MyUCMAApp\MyUCMAApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\env\projects\MyUCMAApp\MyUCMAApp\obj\x86\Debug\MyUCMAApp.exe
+C:\env\projects\MyUCMAApp\MyUCMAApp\obj\x86\Debug\MyUCMAApp.pdb

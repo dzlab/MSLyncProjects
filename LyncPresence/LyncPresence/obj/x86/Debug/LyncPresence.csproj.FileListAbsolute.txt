@@ -1,0 +1,12 @@
+C:\env\projects\LyncPresence\LyncPresence\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\env\projects\LyncPresence\LyncPresence\bin\Debug\LyncPresence.exe.config
+C:\env\projects\LyncPresence\LyncPresence\bin\Debug\LyncPresence.exe
+C:\env\projects\LyncPresence\LyncPresence\bin\Debug\LyncPresence.pdb
+C:\env\projects\LyncPresence\LyncPresence\bin\Debug\Microsoft.Lync.Model.dll
+C:\env\projects\LyncPresence\LyncPresence\bin\Debug\System.Web.dll
+C:\env\projects\LyncPresence\LyncPresence\bin\Debug\Microsoft.Office.Uc.dll
+C:\env\projects\LyncPresence\LyncPresence\bin\Debug\SIPEPS.dll
+C:\env\projects\LyncPresence\LyncPresence\bin\Debug\Microsoft.Rtc.Internal.Media.dll
+C:\env\projects\LyncPresence\LyncPresence\bin\Debug\Microsoft.Lync.Model.xml
+C:\env\projects\LyncPresence\LyncPresence\obj\x86\Debug\LyncPresence.exe
+C:\env\projects\LyncPresence\LyncPresence\obj\x86\Debug\LyncPresence.pdb

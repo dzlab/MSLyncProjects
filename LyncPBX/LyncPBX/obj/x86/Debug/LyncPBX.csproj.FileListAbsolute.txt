@@ -1,0 +1,8 @@
+C:\env\projects\LyncPBX\LyncPBX\bin\Debug\LyncPBX.exe.config
+C:\env\projects\LyncPBX\LyncPBX\bin\Debug\LyncPBX.exe
+C:\env\projects\LyncPBX\LyncPBX\bin\Debug\LyncPBX.pdb
+C:\env\projects\LyncPBX\LyncPBX\bin\Debug\SIPEPS.dll
+C:\env\projects\LyncPBX\LyncPBX\bin\Debug\Microsoft.Rtc.Internal.Media.dll
+C:\env\projects\LyncPBX\LyncPBX\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\env\projects\LyncPBX\LyncPBX\obj\x86\Debug\LyncPBX.exe
+C:\env\projects\LyncPBX\LyncPBX\obj\x86\Debug\LyncPBX.pdb

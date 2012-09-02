@@ -1,0 +1,12 @@
+C:\TFS\michaelg\ProfUC\Book\8\Code\TwoPartyCallControl\bin\Debug\TwoPartyCallControl.exe.config
+C:\Users\bchihani\Desktop\shared\TwoPartyCallControl\bin\Debug\TwoPartyCallControl.exe.config
+C:\Users\bchihani\Desktop\shared\TwoPartyCallControl\bin\Debug\TwoPartyCallControl.exe
+C:\Users\bchihani\Desktop\shared\TwoPartyCallControl\bin\Debug\TwoPartyCallControl.pdb
+C:\Users\bchihani\Desktop\shared\TwoPartyCallControl\bin\Debug\SIPEPS.dll
+C:\Users\bchihani\Desktop\shared\TwoPartyCallControl\bin\Debug\Microsoft.Rtc.Internal.Media.dll
+C:\Users\bchihani\Desktop\shared\TwoPartyCallControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bchihani\Desktop\shared\TwoPartyCallControl\obj\x86\Debug\TwoPartyCallControl.exe
+C:\Users\bchihani\Desktop\shared\TwoPartyCallControl\obj\x86\Debug\TwoPartyCallControl.pdb
+C:\env\projects\TwoPartyCallControl\bin\Debug\TwoPartyCallControl.exe.config
+C:\env\projects\TwoPartyCallControl\obj\x86\Debug\TwoPartyCallControl.exe
+C:\env\projects\TwoPartyCallControl\obj\x86\Debug\TwoPartyCallControl.pdb

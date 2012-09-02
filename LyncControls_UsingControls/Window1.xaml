@@ -1,0 +1,44 @@
+<Window x:Class="LyncControls_UsingControls.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:uc="clr-namespace:Microsoft.Lync.Controls;assembly=Microsoft.Lync.Controls"
+    Title="Using Lync Controls in a WPF Application" Height="600" Width="750"
+    WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="25"></ColumnDefinition>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="120"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Grid.Column="0">
+            <uc:PresenceIndicator x:Name="presenceIndicator" Margin="20,0,0,0" VerticalAlignment="Center" />
+            <TextBlock x:Name="secondaryLabUser" VerticalAlignment="Center" Margin="20,0,0,0" FontSize="14" 
+                       Text="{Binding DisplayName, ElementName=presenceIndicator}" />
+        </StackPanel>
+
+        
+
+        <StackPanel Orientation="Vertical" Grid.Row="2" Grid.Column="0">
+            <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.Column="0">                
+                <TextBox Name="txtNewSipUri" Width="285">Enter the new SIP URI</TextBox>
+                <Button Name="btnTransferCall" Click="btnTransferCall_Click">Transfer call</Button>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.Column="0">
+
+            </StackPanel>
+
+            
+        </StackPanel>
+
+        <!--TODO: 2.1.2 Display Contact List-->
+        <uc:ContactList x:Name="contactList" Grid.Row="2" Grid.Column="2" />
+
+        <!--TODO: 2.1.3 Search for Contacts-->
+        <uc:ContactSearch x:Name="contactSearch" Grid.Row="0" Grid.RowSpan="2" Grid.Column="2" />
+    </Grid>
+</Window>

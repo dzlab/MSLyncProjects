@@ -1,0 +1,10 @@
+C:\Users\bchihani\Desktop\shared\UC14TrainingKit\Labs\3\Source\Before\LaunchLinkCWE.Silverlight.Web\bin\LaunchLinkCWE.Silverlight.Web.dll
+C:\Users\bchihani\Desktop\shared\UC14TrainingKit\Labs\3\Source\Before\LaunchLinkCWE.Silverlight.Web\bin\LaunchLinkCWE.Silverlight.Web.pdb
+C:\Users\bchihani\Desktop\shared\UC14TrainingKit\Labs\3\Source\Before\LaunchLinkCWE.Silverlight.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bchihani\Desktop\shared\UC14TrainingKit\Labs\3\Source\Before\LaunchLinkCWE.Silverlight.Web\obj\Debug\LaunchLinkCWE.Silverlight.Web.dll
+C:\Users\bchihani\Desktop\shared\UC14TrainingKit\Labs\3\Source\Before\LaunchLinkCWE.Silverlight.Web\obj\Debug\LaunchLinkCWE.Silverlight.Web.pdb
+C:\env\projects\LaunchLinkCWE.Silverlight.Web\bin\LaunchLinkCWE.Silverlight.Web.dll
+C:\env\projects\LaunchLinkCWE.Silverlight.Web\bin\LaunchLinkCWE.Silverlight.Web.pdb
+C:\env\projects\LaunchLinkCWE.Silverlight.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\env\projects\LaunchLinkCWE.Silverlight.Web\obj\Debug\LaunchLinkCWE.Silverlight.Web.dll
+C:\env\projects\LaunchLinkCWE.Silverlight.Web\obj\Debug\LaunchLinkCWE.Silverlight.Web.pdb

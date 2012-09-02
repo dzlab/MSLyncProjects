@@ -1,0 +1,9 @@
+﻿<xapCache source="C:\env\projects\LaunchLinkCWE.Silverlight\Bin\Debug\LaunchLinkCWE.Silverlight.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="24/11/2011 14:00:31">
+  <file source="C:\env\projects\LaunchLinkCWE.Silverlight\obj\Debug\LaunchLinkCWE.Silverlight.dll" archivePath="LaunchLinkCWE.Silverlight.dll" lastWriteTime="24/11/2011 14:00:29" />
+  <file source="C:\Program Files (x86)\Microsoft Lync\SDK\Assemblies\Silverlight\Microsoft.Lync.Controls.dll" archivePath="Microsoft.Lync.Controls.dll" lastWriteTime="22/11/2010 15:10:14" />
+  <file source="C:\Program Files (x86)\Microsoft Lync\SDK\Assemblies\Silverlight\Microsoft.Lync.Controls.Framework.dll" archivePath="Microsoft.Lync.Controls.Framework.dll" lastWriteTime="22/11/2010 15:10:20" />
+  <file source="C:\Program Files (x86)\Microsoft Lync\SDK\Assemblies\Silverlight\Microsoft.Lync.Model.dll" archivePath="Microsoft.Lync.Model.dll" lastWriteTime="22/11/2010 15:10:36" />
+  <file source="C:\Program Files (x86)\Microsoft Lync\SDK\Assemblies\Silverlight\Microsoft.Lync.Utilities.dll" archivePath="Microsoft.Lync.Utilities.dll" lastWriteTime="22/11/2010 15:10:00" />
+  <file source="c:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Controls.dll" archivePath="System.Windows.Controls.dll" lastWriteTime="26/08/2010 03:17:48" />
+  <file source="C:\env\projects\LaunchLinkCWE.Silverlight\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="24/11/2011 11:31:58" />
+</xapCache>
